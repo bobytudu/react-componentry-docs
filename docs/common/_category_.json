@@ -1,0 +1,8 @@
+{
+  "label": "Common",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Common React component which can be used with any project."
+  }
+}
