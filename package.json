@@ -1,5 +1,6 @@
 {
   "name": "react-componentry-docs",
+  "homepage": "https://bobytudu.github.io/react-componentry-docs",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -7,7 +8,8 @@
     "start": "docusaurus start",
     "build": "docusaurus build",
     "swizzle": "docusaurus swizzle",
-    "deploy": "docusaurus deploy",
+    "deploy": "SET GIT_USER=bobytudu && SET SSH=true && docusaurus deploy",
+    "gh-deploy": "gh-pages -d build",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
     "write-translations": "docusaurus write-translations",
@@ -24,7 +26,8 @@
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "3.0.0",
-    "@docusaurus/types": "3.0.0"
+    "@docusaurus/types": "3.0.0",
+    "gh-pages": "^6.0.0"
   },
   "browserslist": {
     "production": [
