@@ -10,7 +10,7 @@
 
 ### Usage
 ```tsx
-import { Select } from 'react-components';
+import { Select } from 'react-componentry';
 import { Control } from 'react-hook-form';
 
 const App = () => {

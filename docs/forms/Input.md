@@ -11,7 +11,7 @@
 
 ### Usage
 ```jsx
-import { Input } from 'react-components'
+import { Input } from 'react-componentry'
 import { Control } from 'react-hook-form'
 
 const App = () => {

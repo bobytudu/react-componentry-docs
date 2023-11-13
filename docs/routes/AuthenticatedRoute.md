@@ -19,7 +19,7 @@
 
 ### Usage
 ```tsx
-import { AuthenticatedRoutes } from 'react-components';
+import { AuthenticatedRoutes } from 'react-componentry';
 
 const App = () => {
     return (

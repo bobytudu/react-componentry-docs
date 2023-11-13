@@ -9,7 +9,7 @@
 ## Usage
 
 ```jsx
-import { DatePicker } from 'react-components'
+import { DatePicker } from 'react-componentry'
 import { Control } from 'react-hook-form'
 
 const App = () => {

@@ -6,7 +6,7 @@
 ## Usage
 
 ```jsx
-import { Loader } from 'react-components'
+import { Loader } from 'react-componentry'
 
 const App = () => {
     return (

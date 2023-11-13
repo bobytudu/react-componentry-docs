@@ -21,7 +21,7 @@ state: {
 ### Usage
 
 ```jsx
-import { Alert } from 'react-components'
+import { Alert } from 'react-componentry'
 
 const App = () => {
     const [state, setState] = useState({

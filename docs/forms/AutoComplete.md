@@ -15,7 +15,7 @@
 
 ### Usage
 ```tsx
-import { AutoComplete } from 'react-components';
+import { AutoComplete } from 'react-componentry';
 import { Control } from 'react-hook-form';
 
 const App = () => {

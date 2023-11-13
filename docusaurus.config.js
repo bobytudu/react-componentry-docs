@@ -8,8 +8,9 @@ import { themes as prismThemes } from "prism-react-renderer";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Docs",
-  tagline: "Dinosaurs are cool",
+  title: "react-componentry",
+  tagline:
+    "A collection of React components for rapid prototyping and development.",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
